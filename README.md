@@ -1,1 +1,2 @@
-# ALUAlumni
+The Alumni website is a website that allows users(alumnus) of the different branches of African Leadership University (ALU) to connect, share events, join events etc. In order to be a part of this community one needs to register first and if they are accepted by the admin, they have access to the event calendar to create, edit and remove events, put images in the gallery and view and read articles and updates posted by the admin. 
+Frontend designed using HTML, and JavaScript. Backend designed using JavaScript and MongoDB as database. 
